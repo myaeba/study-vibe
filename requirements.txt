@@ -1,7 +1,0 @@
-streamlit
-google-generativeai
-requests
-beautifulsoup4
-lxml
-pandas
-python-dotenv 
